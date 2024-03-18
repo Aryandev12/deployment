@@ -1,3 +1,4 @@
+
 package com.project.detectsymptom;
 
 import org.springframework.boot.SpringApplication;
