@@ -14,7 +14,7 @@
 	<name>HealthSymptomizer</name>
 	<description>Efficient Spring Boot backend powering symptom detection with precision and speed.</description>
 	<properties>
-		<java.version>21</java.version>
+		<java.version>17</java.version>
 		<jackson.version>2.15.3</jackson.version>
 	</properties>
 	<dependencies>
