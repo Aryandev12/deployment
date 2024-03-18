@@ -18,6 +18,7 @@ import java.util.Map;
 import java.util.concurrent.CompletableFuture;
 
 @RestController
+@CrossOrigin(origins = "https://deployment-sto6.onrender.com")
 public class UserController {
 
     @Autowired
